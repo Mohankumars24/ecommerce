@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "32a8",
+      "pname": "Pencil",
+      "pprice": "10",
+      "pqty": "200",
+      "pimg": "https://media.istockphoto.com/id/1411276955/vector/education-and-work-school-and-office-supply-standard-wood-yellow-hb-pencil-with-soft-pink.jpg?s=612x612&w=0&k=20&c=oADjOV5cOgH_WJumFr63UG2rZ6BzLMVpCtLbnY6ZtYk="
+    },
+    {
+      "id": "1b64",
+      "pname": "Eraser",
+      "pprice": "5",
+      "pqty": "100",
+      "pimg": "https://www.shutterstock.com/image-vector/eraser-vector-illustrationisolated-on-white-260nw-1834459201.jpg"
+    },
+    {
+      "id": "3fbd",
+      "pname": "Scale",
+      "pprice": "7",
+      "pqty": "50",
+      "pimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOznKFsreTx6KxEcfwf2xoZ5UROf0FmAUSA&s"
+    }
+  ]
+}
