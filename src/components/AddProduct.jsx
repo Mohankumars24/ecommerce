@@ -42,10 +42,7 @@ const AddProduct = () => {
                 <label htmlFor="">Product Quantity:</label>
                 <input type='text' name="pqty" placeholder='Enter Product Quantity' onChange={data}/>
             </div>
-            <div className='product-items'>
-                <label htmlFor="">Product Image (Path):</label>
-                <input type='text' name="pimg" placeholder='Enter Product URL' onChange={data}/>
-            </div>
+            
             <div>
                 <button>ADD TO CART</button>
             </div>

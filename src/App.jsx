@@ -5,6 +5,7 @@ import "./resource/global.css"
 import Home from './components/Home'
 import ViewProduct from './components/ViewProduct'
 import AddProduct from './components/AddProduct'
+import UpdateProduct from './components/UpdateProduct'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
           <Route path='/' element={<Home/>}/>
           <Route path='/viewproduct' element={<ViewProduct/>}/>
           <Route path='/addproduct' element={<AddProduct/>}/>
+          <Route path='/updateproduct/:id' element={<UpdateProduct/>}/>
         </Routes>
       </Router>
     </div>
